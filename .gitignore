@@ -1,0 +1,15 @@
+# Operating System Files #
+
+*.DS_Store
+Thumbs.db
+
+# Emacs #
+
+.ensime
+\#*#
+*~
+.#*
+
+# Sublime files #
+
+*.sublime-workspace
